@@ -10,6 +10,8 @@
 
 - 📫 How to reach me [**ivan.vukman@gmail.com**](mailto:ivan.vukman@gmail.com)
 
+- 📄 [Know about my experiences](https://i-vukman.github.io/CV/My_cv.pdf)
+
 &nbsp;
 
 <h3 align="center">Languages and Tools:</h3>
@@ -60,5 +62,5 @@
 &nbsp;
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-vukman&show_icons=true&theme=dark&locale=en" alt="i-vukman" />
 </div>
