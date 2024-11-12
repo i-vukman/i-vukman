@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan | Senior Java Developer @ Tripadvisor</h1>
+<h1 align="center">Hi 👋, I'm Ivan | Senior Backend Developer @ Tripadvisor</h1>
 
 <h3 align="center">Passionate about learning various CS topics</h3>
 
