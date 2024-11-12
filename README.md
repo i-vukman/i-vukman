@@ -25,6 +25,9 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://w7.pngwing.com/pngs/520/391/png-transparent-rust-system-programming-language-programmer-programming-language-logo-bicycle-part-c-thumbnail.png" alt="rust" width="40" height="40"/> 
   </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="rust" width="40" height="40"/> 
+  </a> 
   <a href="https://postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40"/> 
   </a> 
