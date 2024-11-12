@@ -10,7 +10,7 @@
 
 - 📫 How to reach me [**ivan.vukman@gmail.com**](mailto:ivan.vukman@gmail.com)
 
-- 📄 [Know about my experiences](https://i-vukman.github.io/CV/My_cv.pdf)
+- 📄 [Know about my experiences](https://i-vukman.github.io/CV/CV.pdf)
 
 &nbsp;
 
