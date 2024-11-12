@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan | Senior Java Developer @ Tripadvisor</h1>
 
+<h3 align="center">Passionate about learning various CS topics</h3>
+
 - 🔭 I’m currently working on **Java microservices consumed by native mobile apps** | **In house backend framework** @ Tripadvisor
 
 - 🌱 I’m currently learning **Rust** | **Distributed Systems** | **Software Architecture**
