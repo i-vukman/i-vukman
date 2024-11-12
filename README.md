@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://w7.pngwing.com/pngs/520/391/png-transparent-rust-system-programming-language-programmer-programming-language-logo-bicycle-part-c-thumbnail.png" alt="rust" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-rust-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-6-pack-logos-icons-3030389.png" alt="rust" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="rust" width="40" height="40"/> 
